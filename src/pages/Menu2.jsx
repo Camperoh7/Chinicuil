@@ -1,4 +1,5 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom'
 
 const Menu2 = () => {
 return (
@@ -86,11 +87,17 @@ return (
             <h3>Whisky</h3>
             <p>- Buchanan´s 12 <strong>$200</strong></p>
             <p>- Macallan 12 <strong>$300</strong></p><hr/>
-            <h3>
+            <>
             <img className='insta' src='images/instagram.png'>
             </img>
+            <a href={'https://www.instagram.com/chinicuil.holbox/'} className='chin'>
             @chinicuil.holbox
-            </h3>
+            </a><br/>
+            <img className='insta' src='images/star-png.webp'></img>
+            <a href={'https://www.google.com/search?q=chinicuil+holbox&oq=chinicuil+holbox&aqs=chrome.0.0i355i512j46i175i199i512j69i60l2.3217j0j4&sourceid=chrome&ie=UTF-8#lrd=0x8f4d93b6b28fc8a3:0x28a8d8f6cf1f195b,3,,,'} className='chin'>
+            ¡Danos Tu Opinión! 
+            </a>
+            </>
             </div>
             </div>
         </>
