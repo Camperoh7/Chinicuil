@@ -27,6 +27,8 @@ return (
             <p>- Pollo Entero Estilo Hidalgo. (En penca de Maguey con adobo y nopales) <strong>$450</strong></p>
             <p>- Pollo con Mole Poblano o Mole Verde <strong>$240</strong></p>
             <p>- Pollo Asado Chinicuil <strong>$220</strong></p>
+            <p>- Enchiladas (Verdes o rojas). <strong>$180</strong></p>
+            <p>- Enmoladas <strong>$180</strong></p>
             <p>- Camarones al Axiote <strong>$350</strong></p>
             <p>- Camarones al Ajillo <strong>$350</strong></p>
             <p>- Arrachera Chinicuil <strong>$350</strong></p>
@@ -42,8 +44,9 @@ return (
             <p>- Quesadilla de Hongos <strong>$110</strong></p>
             <p>- Quesadilla de Huitlacoche <strong>$130</strong></p>
             <p>- Tostadas de Flor de Jamaica <strong>$120</strong></p>
-            <p>- Flautas de Papa <strong>$120</strong></p><hr/>
-            <h3>Todos los Jueves</h3>
+            <p>- Flautas de Papa <strong>$120</strong></p>
+            <p>- Enchiladas Rellenas de Hongos (Verdes o Rojas) <strong>$180</strong></p><hr/>
+            <h3>Todos los Jueves y los Viernes</h3>
             <p>- Pozole <strong>$180</strong></p>
             <img src='images/gusano-hoja.WEBP'></img><hr/>
             <h3>Todos los Sábados y Domingos</h3>
@@ -55,6 +58,8 @@ return (
             <p>- Consome sin carne <strong>$50</strong></p>
             <img className='xolo bw' src='images/barbacoa2.jpg'></img>
             <h3>Bebidas</h3>
+            <p>- Café de Olla <strong>$45</strong></p>
+            <p>- Café Americano <strong>$60</strong></p>
             <p>- Agua del Día <strong>$45</strong></p>
             <p>- Boing <strong>$45</strong></p>
             <p>- Jugo Verde <strong>$90</strong></p>
@@ -79,7 +84,10 @@ return (
             <p>- José Cuervo Especial <strong>$180</strong></p>
             <img className='xolo bw' src='images/chinicuil-foto.jpg'></img>
             <h3>Mezcal</h3>
-            <p>- La Kuka Espadín <strong>$180</strong></p><hr/>
+            <p>- Etereo Espadín<strong>$180</strong></p>
+            <p>- 400 Conejos joven<strong>$180</strong></p>
+            <p>- Amarás<strong>$180</strong></p>
+            <p>- Fandango Blanco<strong>$140</strong></p><hr/>
             <h3>Ginebra</h3>
             <p>- Tanqueray Ten <strong>$250</strong></p>
             <p>- Bombay <strong>$250</strong></p>
@@ -87,17 +95,20 @@ return (
             <h3>Whisky</h3>
             <p>- Buchanan´s 12 <strong>$200</strong></p>
             <p>- Macallan 12 <strong>$300</strong></p><hr/>
-            <>
+            <h3>Meet Malix</h3>
+            <img className='xolox' src='images/malix1.jpeg'></img>
+            <img className='xolox' src='images/malix2.jpeg'></img>
+            <img className='xolox' src='images/malix3.jpeg'></img>
+            <img className='xolox' src='images/malix4.jpeg'></img><hr/>
             <img className='insta' src='images/instagram.png'>
             </img>
             <a href={'https://www.instagram.com/chinicuil.holbox/'} className='chin'>
-            @chinicuil.holbox
+            @chinicuil.holbox *click here!*
             </a><br/>
             <img className='insta' src='images/star-png.webp'></img>
             <a href={'https://www.google.com/search?q=chinicuil+holbox&oq=chinicuil+holbox&aqs=chrome.0.0i355i512j46i175i199i512j69i60l2.3217j0j4&sourceid=chrome&ie=UTF-8#lrd=0x8f4d93b6b28fc8a3:0x28a8d8f6cf1f195b,3,,,'} className='chin'>
-            ¡Danos Tu Opinión! 
+            ¡Danos Tu Opinión! *click here!*
             </a>
-            </>
             </div>
             </div>
         </>
