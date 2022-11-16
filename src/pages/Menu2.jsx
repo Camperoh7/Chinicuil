@@ -26,7 +26,7 @@ return (
             <p>- Tlacoyos (Orden de 3pz) <strong>$60</strong>. Con pollo <strong>+$50</strong>, con cecina <strong>+$60</strong>, con arrachera <strong>+$80</strong></p>
             <p>- Sopes (Orden de 3pz) <strong>$90</strong>. Con pollo <strong>+$50</strong>, con cecina <strong>+$60</strong>, con arrachera <strong>+$80</strong></p>
             <p>- Quesadilla de Queso <strong>$110</strong></p>
-            <p>- Sope con Tuetano <strong>$140</strong></p><hr/>
+            <p>- Sope con Tuetano <strong>$160</strong></p><hr/>
             <h3>Platillos</h3>
             <p>- Molcajete Mar y Tierra. (Frijoles rancheros, arrachera, camarones, queso hecho por chinicuil, chorizo, nopales, cebollines, chile serrano y tortillas hechas a mano 6pz) Extra de tortillas 6pz <strong>+$25.  </strong> <strong>$720</strong></p>
             <p>- Pollo Entero Estilo Hidalgo. (En penca de Maguey con adobo y nopales) <strong>$450</strong></p>
