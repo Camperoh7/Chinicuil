@@ -10,20 +10,22 @@ body {
 .title{
     background-color: #304ffe;
     color: #ffff00;
-    font-family: cursive;
+    font-family: Arial;
 }
 
 .color-text{
     text-decoration: none;
     color: #ffff00;
     font-size:large;
+    background-color: #304ffe;
+    background-size: cover;
 }
 
 
 img {
     width: 200px;
     -webkit-filter: grayscale(100%);
-    filter: grayscale(80%);
+    filter: grayscale(100%);
 }
 
 .container{
@@ -32,17 +34,15 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    
 }
 
 .container .btn {
     position: absolute;
-    top: 40%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    background-color: #304ffe;
-    font-family: cursive;
+    font-family: Arial;
     font-size: 16px;
     padding: 12px 24px;
     border: none;
@@ -52,12 +52,11 @@ img {
 
 .container .btn2 {
     position: absolute;
-    top: 65%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    background-color: #304ffe;
-    font-family: cursive;
+    font-family: Arial;
     font-size: 16px;
     padding: 12px 24px;
     border: none;
@@ -65,11 +64,7 @@ img {
     border-radius: 5px;
 }
 
-.container .btn:hover{
-    background-color: #ff4081;
-}
-
-.container .btn2:hover {
+.color-text:hover {
     background-color: #ff4081;
 }
 
