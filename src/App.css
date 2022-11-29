@@ -51,4 +51,6 @@ img{
 .xolox{
   width: 60%;
   border: 1.5px solid black;
+  -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
 }
