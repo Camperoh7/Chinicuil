@@ -15,8 +15,8 @@ return (
             <p>- Ham Omelette with Cheese <strong>$150</strong></p>
             <p>- Chilaquiles with Chicken or Egg (Green or Red) <strong>$150</strong>. With extra egg <strong>+$25</strong>, with extra beef jerky <strong>+$60</strong>, with extra chicken <strong>+$50</strong>, with extra chorizo <strong>+$30</strong></p>
             <p>- Seasonal Fruit <strong>$75</strong></p>
-            <p>- Pan Tostado con Mantequilla y Mermelada <strong>$45</strong></p>
-            <p>- Huevos Rancheros <strong>$150</strong></p>
+            <p>- Toast with butter and jam <strong>$45</strong></p>
+            <p>- Ranch Eggs <strong>$150</strong></p>
             <p>- Eggs with Mole Poblano <strong>$150</strong></p>
             <p>- Mexican Style Eggs <strong>$150</strong></p>
             <img className='xolo' src='images/xoloitzcuintle.jpg'/>
@@ -39,6 +39,7 @@ return (
             <p>- Arrachera Chinicuil <strong>$350</strong></p>
             <p>- Jerky Taco <strong>$45</strong></p>
             <p>- Arrachera Taco <strong>$65</strong></p>
+            <p>- CeciKamp Tacos (Order of 3pz. Jerky, shrimp, avocado marshmellows y serrano chile) <strong>$180</strong></p>
             <p>- Chicken Quesadilla <strong>$150</strong></p>
             <p>- Fresh Grilled Cheese (With handmade tortillas. You choose: Mushrooms or Huitlacoche or Spinach) <strong>$160</strong></p>
             <p>- Chicken Broth <strong>$100</strong></p>
@@ -121,7 +122,7 @@ return (
             </a><br/>
             <img className='insta' src='images/star-png.webp'/>
             <a href={'https://www.google.com/search?q=chinicuil+holbox&oq=chinicuil+holbox&aqs=chrome.0.0i355i512j46i175i199i512j69i60l2.3217j0j4&sourceid=chrome&ie=UTF-8#lrd=0x8f4d93b6b28fc8a3:0x28a8d8f6cf1f195b,3,,,'} className='chin'>
-            ¡Danos Tu Opinión! *click here!*
+            Rate us! *click here!*
             </a>
             </div>
             </div>

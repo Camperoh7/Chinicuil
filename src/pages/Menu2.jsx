@@ -39,6 +39,7 @@ return (
             <p>- Arrachera Chinicuil <strong>$350</strong></p>
             <p>- Taco de Cecina <strong>$45</strong></p>
             <p>- Taco de Arrachera <strong>$65</strong></p>
+            <p>- Tacos CeciKamp (Orden de 3 tacos. Cecina, camaron, bombones de aguacate y chile serrano) <strong>$180</strong></p>
             <p>- Quesadilla de Pollo <strong>$150</strong></p>
             <p>- Queso Fresco Asado (Acompañado de tortillas hechas a mano y a elegir: champiñones, huitlacoche ó espinaca) <strong>$160</strong></p>
             <p>- Caldo de Pollo <strong>$100</strong></p>
