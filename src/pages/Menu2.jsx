@@ -23,8 +23,8 @@ return (
             <h3>Entradas</h3>
             <p>- Guacamole <strong>$220</strong></p>
             <p>- Nachos con Carne <strong>$280</strong></p>
-            <p>- Tlacoyos (Orden de 3pz) <strong>$60</strong>. Con pollo <strong>+$50</strong>, con cecina <strong>+$60</strong>, con arrachera <strong>+$80</strong></p>
-            <p>- Sopes (Orden de 3pz) <strong>$90</strong>. Con pollo <strong>+$50</strong>, con cecina <strong>+$60</strong>, con arrachera <strong>+$80</strong></p>
+            <p>- Tlacoyos (Orden de 3pz) <strong>$90</strong>. Con pollo <strong>+$50</strong>, con cecina <strong>+$60</strong>, con arrachera <strong>+$80</strong></p>
+            <p>- Sopes (Orden de 3pz) <strong>$60</strong>. Con pollo <strong>+$50</strong>, con cecina <strong>+$60</strong>, con arrachera <strong>+$80</strong></p>
             <p>- Quesadilla de Queso <strong>$110</strong></p>
             <p>- Sope con Tuetano <strong>$160</strong></p><hr/>
             <h3>Platillos</h3>
@@ -93,7 +93,7 @@ return (
             <img className='xolo bw' src='images/cantarito.WEBP'/>
             <h3>Cocteles</h3>
             <p>- MARGARITA <strong>$150</strong></p>
-            <p>- MEZCALITA (Tuna, Frutos Rojos) <strong>$220</strong></p>
+            <p>- MEZCALITA (Tuna, Frutos Rojos, Jamaica, Naranja, Especias) <strong>$220</strong></p>
             <p>- MOJITO <strong>$150</strong></p>
             <p>- CANTARITO <strong>$150</strong></p>
             <p>- TEQUILA SUNRISE <strong>$150</strong></p>
