@@ -38,10 +38,13 @@ return (
             <p>- Camarones al Ajillo <strong>$350</strong></p>
             <p>- Arrachera Chinicuil <strong>$350</strong></p>
             <p>- Taco de Cecina <strong>$45</strong></p>
-            <p>- Taco de Arrachera <strong>$65</strong></p>
+            <p>- Taco de Arrachera <strong>$45</strong></p>
+            <p>- Tacos MiGober (Orden de 3 tacos. Tacos de camaron) <strong>$240</strong></p>
             <p>- Tacos CeciKamp (Orden de 3 tacos. Cecina, camaron, bombones de aguacate y chile serrano) <strong>$180</strong></p>
+            <p>- Tostada de Aguachile Verde (1pz) <strong>$95</strong></p>
             <p>- Quesadilla de Pollo <strong>$150</strong></p>
             <p>- Queso Fresco Asado (Acompañado de tortillas hechas a mano y a elegir: champiñones, huitlacoche ó espinaca) <strong>$160</strong></p>
+            <p>- Chamorro al Horno <strong>$280</strong></p>
             <p>- Caldo de Pollo <strong>$100</strong></p>
             <p>- Sopa de Tortilla <strong>$130</strong></p>
             <p>- Sopa del Día <strong>$130</strong></p>
@@ -84,14 +87,24 @@ return (
             <p>- Negra Modelo <strong>$60</strong></p>
             <p>- Modelo Especial <strong>$60</strong></p>
             <p>- Cerveza Victoria <strong>$50</strong></p>
+            <p>- Vaso Chelado <strong>$20</strong></p>
+            <p>- Vaso Michelado Sabores (Clásica Chamoy, Sandía, Mango, Mora Azul, Tamarindo o Flaming) <strong>$35</strong></p>
+            <p>- Ojo Rojo <strong>$30</strong></p>
             <img className='xolo bw' src='images/cantarito.WEBP'/>
             <h3>Cocteles</h3>
             <p>- MARGARITA <strong>$150</strong></p>
-            <p>- MEZCALITA <strong>$220</strong></p>
+            <p>- MEZCALITA (Tuna, Frutos Rojos) <strong>$220</strong></p>
             <p>- MOJITO <strong>$150</strong></p>
             <p>- CANTARITO <strong>$150</strong></p>
             <p>- TEQUILA SUNRISE <strong>$150</strong></p>
-            <p>- PIÑA COLADA <strong>$150</strong></p><hr/>
+            <p>- PIÑA COLADA <strong>$150</strong></p>
+            <p>- GIN TONIC <strong>$180</strong></p>
+            <p>- GIN TONIC FRUTOS ROJOS <strong>$180</strong></p>
+            <p>- CARAJILLO <strong>$220</strong></p>
+            <p>- SAMBUCA <strong>$250</strong></p>
+            <h3>Licores</h3>
+            <p>- Amaretto <strong>$280</strong></p>
+            <p>- Licor del 43 <strong>$200</strong></p>
             <h3>Tequila</h3>
             <p>- Don Julio reposado <strong>$200</strong></p>
             <p>- Mestro Dobel <strong>$220</strong></p>

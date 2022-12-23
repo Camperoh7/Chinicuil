@@ -38,10 +38,13 @@ return (
             <p>- Garlic Shrimp <strong>$350</strong></p>
             <p>- Arrachera Chinicuil <strong>$350</strong></p>
             <p>- Jerky Taco <strong>$45</strong></p>
-            <p>- Arrachera Taco <strong>$65</strong></p>
+            <p>- Arrachera Taco <strong>$45</strong></p>
+            <p>- MyGober Tacos (Order of 3pz. Shrimp tacos) <strong>$240</strong></p>
             <p>- CeciKamp Tacos (Order of 3pz. Jerky, shrimp, avocado marshmellows y serrano chile) <strong>$180</strong></p>
+            <p>- Green Aguachile Tostada (1pz) <strong>$95</strong></p>
             <p>- Chicken Quesadilla <strong>$150</strong></p>
             <p>- Fresh Grilled Cheese (With handmade tortillas. You choose: Mushrooms or Huitlacoche or Spinach) <strong>$160</strong></p>
+            <p>- Baked Ham <strong>$280</strong></p>
             <p>- Chicken Broth <strong>$100</strong></p>
             <p>- Tortilla Soup <strong>$130</strong></p>
             <p>- Soup of the Day <strong>$130</strong></p>
@@ -84,14 +87,21 @@ return (
             <p>- Negra Modelo <strong>$60</strong></p>
             <p>- Modelo Especial <strong>$60</strong></p>
             <p>- Cerveza Victoria <strong>$50</strong></p>
+            <p>- Chelado Glass <strong>$45</strong></p>
+            <p>- Michelado Glass Flavours (Chamoy Clasic, Watermelon, Mango, Blue Berry, Tamarind or Flaming)<strong></strong></p>
+            <p>- Red Eye Glass <strong>$45</strong></p>
             <img className='xolo bw' src='images/cantarito.WEBP'/>
             <h3>Cocktails</h3>
             <p>- MARGARITA <strong>$150</strong></p>
-            <p>- MEZCALITA <strong>$220</strong></p>
+            <p>- MEZCALITA (Tuna, Red Fruits) <strong>$220</strong></p>
             <p>- MOJITO <strong>$150</strong></p>
             <p>- CANTARITO <strong>$150</strong></p>
             <p>- TEQUILA SUNRISE <strong>$150</strong></p>
             <p>- PIÑA COLADA <strong>$150</strong></p><hr/>
+            <p>- GIN TONIC <strong>$180</strong></p>
+            <p>- GIN TONIC WITH RED FRUITS <strong>$180</strong></p>
+            <p>- CARAJILLO <strong>$220</strong></p>
+            <p>- SAMBUCA <strong>$250</strong></p>
             <h3>Tequila</h3>
             <p>- Don Julio reposado <strong>$200</strong></p>
             <p>- Mestro Dobel <strong>$220</strong></p>
