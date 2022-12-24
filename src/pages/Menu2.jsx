@@ -68,11 +68,6 @@ return (
             <p>- Consome con carne <strong>$90</strong></p>
             <p>- Consome sin carne <strong>$55</strong></p>
             <img className='xolo bw' src='images/barbacoa2.jpg'/>
-            <h3>Postres</h3>
-            <p>- Gelatina de Mosaico <strong>$75</strong></p>
-            <p>- Arroz con Leche <strong>$75</strong></p>
-            <p>- Plátano Frito <strong>$75</strong></p>
-            <img className='xolo bw' src='images/postre1.jpg'/>
             <h3>Bebidas</h3>
             <p>- Café de Olla <strong>$45</strong></p>
             <p>- Café Americano <strong>$60</strong></p>

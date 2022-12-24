@@ -68,11 +68,6 @@ return (
             <p>- Consome with carne <strong>$90</strong></p>
             <p>- Consome without carne <strong>$55</strong></p>
             <img className='xolo bw' src='images/barbacoa2.jpg'/>
-            <h3>Desserts</h3>
-            <p>- Mosaic Gelatin <strong>$75</strong></p>
-            <p>- Rice Pudding <strong>$75</strong></p>
-            <p>- Fried Banana <strong>$75</strong></p>
-            <img className='xolo bw' src='images/postre1.jpg'/>
             <h3>Drinks</h3>
             <p>- Café de Olla <strong>$45</strong></p>
             <p>- American Coffe <strong>$60</strong></p>
