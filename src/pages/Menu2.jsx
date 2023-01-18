@@ -26,7 +26,8 @@ return (
             <p>- Tlacoyos (Orden de 3pz) <strong>$90</strong>. Con pollo <strong>+$50</strong>, con cecina <strong>+$60</strong>, con arrachera <strong>+$80</strong></p>
             <p>- Sopes (Orden de 3pz) <strong>$60</strong>. Con pollo <strong>+$50</strong>, con cecina <strong>+$60</strong>, con arrachera <strong>+$80</strong></p>
             <p>- Quesadilla de Queso <strong>$110</strong></p>
-            <p>- Sope con Tuetano <strong>$160</strong></p><hr/>
+            <p>- Sope con Tuetano <strong>$160</strong></p>
+            <p>- Queso Fundido <strong>$180</strong><br/> Con arrachera <strong>$240</strong>, con champiñones <strong>$220</strong>, con chorizo <strong>$220</strong></p><hr/>
             <h3>Platillos</h3>
             <p>- Molcajete Mar y Tierra. (Frijoles rancheros, arrachera, camarones, queso hecho por chinicuil, chorizo, nopales, cebollines, chile serrano y tortillas hechas a mano 6pz) Extra de tortillas 6pz <strong>+$25.  </strong> <strong>$720</strong></p>
             <p>- Pollo Entero Estilo Hidalgo. (En penca de Maguey con adobo y nopales) <strong>$450</strong></p>
@@ -37,6 +38,10 @@ return (
             <p>- Camarones al Axiote <strong>$350</strong></p>
             <p>- Camarones al Ajillo <strong>$350</strong></p>
             <p>- Arrachera Chinicuil <strong>$350</strong></p>
+            <p>- Fajitas de Pollo con Queso <strong>$240</strong></p>
+            <p>- Fajitas de Arrachera con Queso <strong>$280</strong></p>
+            <p>- Ensalada de Frutos Rojos. (Con queso de cabra, vinagreta de jamaica y nuez caramelizada) <strong>$200</strong><br/> Con pollo <strong>$240</strong>, con arrachera <strong>$260</strong>, con camarones <strong>$290</strong></p>
+            <img className='xolo' src='images/ensalada.jpg'/>
             <p>- Taco de Cecina <strong>$45</strong></p>
             <p>- Taco de Arrachera <strong>$45</strong></p>
             <p>- Tacos MiGober (Orden de 3 tacos. Tacos de camaron) <strong>$240</strong></p>

@@ -26,7 +26,8 @@ return (
             <p>- Tlacoyos (Order of 3pz) <strong>$90</strong>. With chicken <strong>+$50</strong>, with beef jerky <strong>+$60</strong>, with arrachera <strong>+$80</strong></p>
             <p>- Sopes (Order of 3pz) <strong>$60</strong>. With chicken <strong>+$50</strong>, with beef jerky <strong>+$60</strong>, with arrachera <strong>+$80</strong></p>
             <p>- Cheese Quesadilla <strong>$110</strong></p>
-            <p>- Sope with Marrow <strong>$160</strong></p><hr/>
+            <p>- Sope with Marrow <strong>$160</strong></p>
+            <p>- Melted Cheese <strong>$180</strong><br/> With arrachera <strong>$240</strong>, with mushrooms <strong>$220</strong>, with chorizo <strong>$220</strong></p><hr/>
             <h3>Dishes</h3>
             <p>- Molcajete Sea and Earth. (Ranch beans, arrachera, shrimp, cheese made by chinicuil, chorizo, nopales, scallions, serrano chile and handmade tortillas 6pz) Extra tortillas 6pz <strong>+$25.  </strong> <strong>$720</strong></p>
             <p>- Whole Hidalgo Style Chicken. (In Maguey stalk with adobo and nopales) <strong>$450</strong></p>
@@ -37,6 +38,10 @@ return (
             <p>- Axiote Shrimp <strong>$350</strong></p>
             <p>- Garlic Shrimp <strong>$350</strong></p>
             <p>- Arrachera Chinicuil <strong>$350</strong></p>
+            <p>- Chicken Fajitas with Cheese <strong>$240</strong></p>
+            <p>- Arrachera Fajitas with Cheese <strong>$280</strong></p>
+            <p>- Red Fruits Salad. (With goat cheese, hibiscus vinaigrette and caramelized walnut) <strong>$200</strong><br/> With chicken <strong>$240</strong>, with arrachera <strong>$260</strong>, with shrimps <strong>$290</strong></p>
+            <img className='xolo' src='images/ensalada.jpg'/>
             <p>- Jerky Taco <strong>$45</strong></p>
             <p>- Arrachera Taco <strong>$45</strong></p>
             <p>- MyGober Tacos (Order of 3pz. Shrimp tacos) <strong>$240</strong></p>
