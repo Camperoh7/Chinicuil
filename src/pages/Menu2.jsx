@@ -8,7 +8,7 @@ return (
         <div className='menu'>
         <div className='encabezado parte_izquierda'>
             <h3>Desayunos</h3>
-            <p>- Desayuno Completo. (Incluye yogurth con cereal, jugo de temporada, café de olla y huevos al gusto ó chilaquiles ó flautas de pollo/papa) <strong>$180</strong></p>
+            <p>- Desayuno Completo. (Incluye yogurth con cereal, agua del día, café de olla y chilaquiles rojos ó verdes) <strong>$180</strong></p>
             <p>- Omelette de Espinaca con Queso de Cabra <strong>$150</strong></p>
             <p>- Omelette de Hongos con Quesillo <strong>$150</strong></p>
             <p>- Omelette de Huitlacoche <strong>$150</strong></p>
