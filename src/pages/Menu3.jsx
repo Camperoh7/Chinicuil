@@ -30,6 +30,8 @@ return (
             <p>- Melted Cheese <strong>$180</strong><br/> With arrachera <strong>$240</strong>, with mushrooms <strong>$220</strong>, with chorizo <strong>$220</strong></p><hr/>
             <h3>Dishes</h3>
             <p>- Molcajete Sea and Earth. (Ranch beans, arrachera, shrimp, cheese made by chinicuil, chorizo, nopales, scallions, serrano chile and handmade tortillas 6pz) Extra tortillas 6pz <strong>+$25.  </strong> <strong>$720</strong></p>
+            <p>- Chinicuil Burger (With chicken, red chilaquiles, cream, cheese, onion and fried egg) <strong>$180</strong></p>
+            <p>- 3 Cheese Burger (Beef, bacon, mozzarella cheese, chihuahua cheese, oaxaca cheese, portobello, tomato, lettuce, onion and fried sweet potato) <strong>$240</strong></p>
             <p>- Whole Hidalgo Style Chicken. (In Maguey stalk with adobo and nopales) <strong>$450</strong></p>
             <p>- Chicken with Mole Poblano or Green Mole <strong>$240</strong></p>
             <p>- Chinicuil Roasted Chicken <strong>$220</strong></p>

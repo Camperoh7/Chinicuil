@@ -30,6 +30,8 @@ return (
             <p>- Queso Fundido <strong>$180</strong><br/> Con arrachera <strong>$240</strong>, con champiñones <strong>$220</strong>, con chorizo <strong>$220</strong></p><hr/>
             <h3>Platillos</h3>
             <p>- Molcajete Mar y Tierra. (Frijoles rancheros, arrachera, camarones, queso hecho por chinicuil, chorizo, nopales, cebollines, chile serrano y tortillas hechas a mano 6pz) Extra de tortillas 6pz <strong>+$25.  </strong> <strong>$720</strong></p>
+            <p>- Hamburguesa Chinicuil (Pollo, chilaquiles rojos, crema, queso, cebolla y huevo estrellado) <strong>$180</strong></p>
+            <p>- Hamburguesa 3 Quesos (Carne de filete de res, tocino, queso mozzarella, queso chihuahua, queso oaxaca, portobello, jitomate, lechuga, cebolla y camote frito) <strong>$240</strong></p>
             <p>- Pollo Entero Estilo Hidalgo. (En penca de Maguey con adobo y nopales) <strong>$450</strong></p>
             <p>- Pollo con Mole Poblano o Mole Verde <strong>$240</strong></p>
             <p>- Pollo Asado Chinicuil <strong>$220</strong></p>
