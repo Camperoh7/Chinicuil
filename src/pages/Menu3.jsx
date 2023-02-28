@@ -56,7 +56,7 @@ return (
             <p>- Tortilla Soup <strong>$130</strong></p>
             <p>- Soup of the Day <strong>$130</strong></p>
             <img className='xolo' src='images/agave.jpg'/>
-            <h3>Vegan</h3>
+            <h3>Vegetarian</h3>
             <p>- Mushrooms Quesadilla <strong>$110</strong></p>
             <p>- Huitlacoche Quesadilla <strong>$130</strong></p>
             <p>- Jamaican Flower Toasts  <strong>$120</strong></p>
