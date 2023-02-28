@@ -56,11 +56,11 @@ return (
             <p>- Sopa de Tortilla <strong>$130</strong></p>
             <p>- Sopa del Día <strong>$130</strong></p>
             <img className='xolo' src='images/agave.jpg'/>
-            <h3>Vegano</h3>
+            <h3>Vegetariano</h3>
             <p>- Quesadilla de Hongos <strong>$110</strong></p>
             <p>- Quesadilla de Huitlacoche <strong>$130</strong></p>
             <p>- Tostadas de Flor de Jamaica <strong>$120</strong></p>
-            <p>- Flautas de Papa <strong>$120</strong></p>
+            <p>- Flautas de Papa <strong>$120</strong></p> 
             <p>- Enchiladas Rellenas de Hongos (Verdes o Rojas) <strong>$180</strong></p><hr/>
             <h3>Todos los Jueves y los Viernes</h3>
             <p>- Pozole <strong>$180</strong></p>

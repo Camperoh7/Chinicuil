@@ -2,7 +2,9 @@ import React from 'react'
 
 const Encabezado = () => {
     return (
-        <img src='images/chinicuil.jpeg'></img>
+        <div>
+        <img className='chinicuilw' src='images/chinicuil.jpeg'/>
+        </div>
     )
 }
 

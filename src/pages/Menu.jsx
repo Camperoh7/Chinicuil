@@ -1,7 +1,7 @@
 import React from 'react'
 import '../App.css'
 
-const Men = () => {
+const Menu = () => {
     return (
         <>
         <img src='images/chinicuil.jpeg'></img>

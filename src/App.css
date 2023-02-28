@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Cuprum:ital@1&family=Niconne&family=Sail&display=swap');
+
 body{
   align-items: center;
+  background-color: #ffffff;
   text-align: center;
   margin: 0;
   padding: 0;
@@ -7,12 +10,37 @@ body{
   height: auto;
 }
 
+.logo{
+  font-size: 6rem;
+  text-align: center;
+  height: 25vh;
+  line-height: 20vh;
+  color: #000000;
+  font-family:'Cuprum', sans-serif;
+  background: #ffffff;
+  font-weight: 700;
+  text-shadow: 5px 5px 0 #0505f3, 10px 10px 0 #eefa0e, 15px 15px 0 #fc06e7, 20px 20px 0 #93939c
+}
+
+.logo2{
+  text-align: center;
+  height: 25vh;
+  line-height: 20vh;
+  color: #000000;
+  font-family:'Cuprum', sans-serif;
+  background: #ffffff;
+  font-weight: 700;
+  text-shadow: 2px 2px 0 #0505f3, 5px 5px 0 #eefa0e, 8px 8px 0 #fc06e7, 11px 11px 0 #93939c
+}
+
 img{
   width: 200px;
 }
 
 .encabezado{
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family:'Cuprum', sans-serif;
+  color: #000000;
+  font-size: 2rem;
 }
 
 .menu-chinicuil{
@@ -53,4 +81,13 @@ img{
   border: 1.5px solid black;
   -webkit-filter: grayscale(0%);
     filter: grayscale(0%);
+}
+
+.color_line{
+  color: blue;
+}
+
+.chinicuilw{
+  filter:invert(0%) ;
+  width: 100%;
 }

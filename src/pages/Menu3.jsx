@@ -5,8 +5,8 @@ const Menu3 = () => {
 return (
     <>
         <div className='encabezado'><h1>Menu</h1></div>
-        <div className='menu'>
-        <div className='encabezado parte_izquierda'>
+        <div className='menu-chinicuil'>
+        <div className='encabezado'>
             <h3>Breakfast</h3>
             <p>- Complete Breakfast. (Includes yogurth with cereal, water of the day, coffee and red or green chilaquiles) <strong>$180</strong></p>
             <p>- Spinach Omelette with Goat Cheese <strong>$150</strong></p>

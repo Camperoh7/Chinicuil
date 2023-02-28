@@ -12,7 +12,7 @@ const Interfaz = () => {
                 <div>
                     <img src='images/molcajete.jpg' className='xolo' />
                     <div className='btn'>
-                        <Link className='navlink color-text' to="/menu2"><h4 className='color-text'>Menú en Español</h4></Link><br />
+                        <Link className='navlink color-text' to="/menu4"><h4 className='color-text'>Menú en Español</h4></Link><br />
                     </div>
                     <div className='btn2'>
                         <Link className='navlink color-text' to="/menu3"><h4 className='color-text'>English Menu</h4></Link>
