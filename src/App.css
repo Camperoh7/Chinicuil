@@ -15,22 +15,22 @@ body{
   text-align: center;
   height: 25vh;
   line-height: 20vh;
-  color: #000000;
+  color: #0505f3;
   font-family:'Cuprum', sans-serif;
   background: #ffffff;
   font-weight: 700;
-  text-shadow: 5px 5px 0 #0505f3, 10px 10px 0 #eefa0e, 15px 15px 0 #fc06e7, 20px 20px 0 #93939c
+  text-shadow: 5px 5px 0 #000000, 10px 10px 0 #eefa0e, 15px 15px 0 #fc06e7, 20px 20px 0 #93939c
 }
 
 .logo2{
   text-align: center;
   height: 25vh;
   line-height: 20vh;
-  color: #000000;
+  color: #0505f3;
   font-family:'Cuprum', sans-serif;
   background: #ffffff;
   font-weight: 700;
-  text-shadow: 2px 2px 0 #0505f3, 5px 5px 0 #eefa0e, 8px 8px 0 #fc06e7, 11px 11px 0 #93939c
+  text-shadow: 2px 2px 0 #000000, 5px 5px 0 #eefa0e, 8px 8px 0 #fc06e7, 11px 11px 0 #93939c
 }
 
 img{
