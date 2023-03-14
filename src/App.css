@@ -45,8 +45,8 @@ img{
 
 .menu-chinicuil{
   text-align: center;
-  margin: 15  px;
-  width: 100%;
+  margin: 0px;
+  width: auto;
   font-size: medium;
 }
 
@@ -56,8 +56,14 @@ img{
 }
 
 .xolo{
-  width: 100%;
+  width: auto;
   border: 1.5px solid black;
+}
+
+.xolo2{
+  width: auto;
+  border: 1.5px solid black;
+  filter:invert(100%) ;
 }
 
 .bw{
@@ -85,9 +91,4 @@ img{
 
 .color_line{
   color: blue;
-}
-
-.chinicuilw{
-  filter:invert(0%) ;
-  width: 100%;
 }
