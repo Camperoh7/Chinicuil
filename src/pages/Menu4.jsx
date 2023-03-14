@@ -3,7 +3,6 @@ import React from 'react'
 const Menu4 = () => {
     return (
         <>
-            <div className='encabezado '></div>
             <div className='menu-chinicuil'>
             <div className='encabezado'>
                 <img className='invert' src='images/8.png'/>

@@ -5,7 +5,6 @@ body {
     margin: 4px;
     padding: 0;
     width: auto;
-    height: auto;
 }
 
 .container .btn {
@@ -19,14 +18,13 @@ body {
     font-family: 'Cuprum', sans-serif;
     font-weight: 900;
     text-shadow: 2px 2px 0 #0505f3, 5px 5px 0 #eefa0e, 8px 8px 0 #fc06e7, 11px 11px 0 #93939c; 
-    padding: 12px 24px;
     border: none;
     cursor: pointer;
 }
 
 .container .btn2 {
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 80%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
@@ -35,7 +33,21 @@ body {
     font-family: 'Cuprum', sans-serif;
     font-weight: 900;
     text-shadow: 2px 2px 0 #0505f3, 5px 5px 0 #eefa0e, 8px 8px 0 #fc06e7, 11px 11px 0 #93939c; 
-    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+}
+
+.container .btn3 {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: #ffffff;
+    font-family: 'Cuprum', sans-serif;
+    font-weight: 900;
+    text-shadow: 2px 2px 0 #0505f3, 5px 5px 0 #eefa0e, 8px 8px 0 #fc06e7, 11px 11px 0 #93939c; 
     border: none;
     cursor: pointer;
 }
@@ -45,5 +57,9 @@ body {
 }
 
 .container .btn2:hover{
+    text-shadow: 2px 2px 0 #fc06e7, 5px 5px 0 #eefa0e, 8px 8px 0 #0505f3, 11px 11px 0 #93939c; 
+}
+
+.container .btn3:hover{
     text-shadow: 2px 2px 0 #fc06e7, 5px 5px 0 #eefa0e, 8px 8px 0 #0505f3, 11px 11px 0 #93939c; 
 }

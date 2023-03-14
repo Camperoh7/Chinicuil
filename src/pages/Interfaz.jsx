@@ -9,11 +9,13 @@ const Interfaz = () => {
                 <h2 className='logo'>CHINICUIL</h2>
                 <img src='images/ch1.jpeg' className='xolo' />
                     <Link className='navlink' to="/menu5">
-                        <button className='btn'>Menú Español</button><br/>
+                        <button className='btn'>Menú Español</button>
                     </Link>
                     <Link className='navlink' to="/menu4">
                         <button className="btn2">English Menu</button>
                     </Link>   
+                <img src='images/ch3.jpeg' className='xolo' />
+                    <a href={'https://www.instagram.com/chinicuil.holbox/'} className='btn3'>@chinicuil.holbox</a>
             </div>
         </>
     )
