@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Cuprum:ital@1&family=Niconne&family=Sail&display=swap');
 
-body{
+body {
   align-items: center;
   background-color: #ffffff;
   text-align: center;
@@ -10,85 +10,89 @@ body{
   height: auto;
 }
 
-.logo{
-  font-size: 6rem;
+.logo {
+  font-size: 3rem;
   text-align: center;
   height: 25vh;
   line-height: 20vh;
-  color: #0505f3;
-  font-family:'Cuprum', sans-serif;
-  background: #ffffff;
+  color: #ffffff;
+  font-family: 'Cuprum', sans-serif;
   font-weight: 700;
-  text-shadow: 5px 5px 0 #000000, 10px 10px 0 #eefa0e, 15px 15px 0 #fc06e7, 20px 20px 0 #93939c
+  text-shadow: 5px 5px 0 #0505f3, 10px 10px 0 #eefa0e, 15px 15px 0 #fc06e7, 20px 20px 0 #93939c; 
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
 }
 
-.logo2{
+.logo2 {
   text-align: center;
   height: 25vh;
   line-height: 20vh;
   color: #0505f3;
-  font-family:'Cuprum', sans-serif;
+  font-family: 'Cuprum', sans-serif;
   background: #ffffff;
   font-weight: 700;
   text-shadow: 2px 2px 0 #000000, 5px 5px 0 #eefa0e, 8px 8px 0 #fc06e7, 11px 11px 0 #93939c
 }
 
-img{
+img {
   width: 200px;
 }
 
-.encabezado{
-  font-family:'Cuprum', sans-serif;
+.encabezado {
+  font-family: 'Cuprum', sans-serif;
   color: #000000;
   font-size: 2rem;
 }
 
-.menu-chinicuil{
+.menu-chinicuil {
   text-align: center;
   margin: 0px;
   width: auto;
   font-size: medium;
 }
 
-.menu{
+.menu {
   display: flex;
   flex-direction: row;
 }
 
-.xolo{
-  width: auto;
+.xolo {
+  width: 100%;
   border: 1.5px solid black;
 }
 
-.xolo2{
-  width: auto;
+.invert {
+  width: 100%;
   border: 1.5px solid black;
-  filter:invert(100%) ;
+  filter: invert(100%);
 }
 
-.bw{
+.bw {
   -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
+  filter: grayscale(100%);
 }
 
-.insta{
+.insta {
   width: 30px;
   margin-right: 5px;
 }
 
-.chin{
+.chin {
   text-decoration: none;
   color: black;
-  font-size:large;
+  font-size: large;
 }
 
-.xolox{
+.xolox {
   width: 60%;
   border: 1.5px solid black;
   -webkit-filter: grayscale(0%);
-    filter: grayscale(0%);
+  filter: grayscale(0%);
 }
 
-.color_line{
+.color_line {
   color: blue;
 }

@@ -6,13 +6,13 @@ const Menu5 = () => {
         <div className='encabezado '></div>
             <div className='menu-chinicuil'>
                     <div className='encabezado'>
-                    <img className='xolo2' src='images/1.png'/>
-                    <img className='xolo2' src='images/2.png'/>
-                    <img className='xolo2' src='images/3.png'/>
-                    <img className='xolo2' src='images/4.png'/>
-                    <img className='xolo2' src='images/5.png'/>
-                    <img className='xolo2' src='images/6.png'/>
-                    <img className='xolo2' src='images/7.png'/>
+                    <img className='invert' src='images/1.png'/>
+                    <img className='invert' src='images/2.png'/>
+                    <img className='invert' src='images/3.png'/>
+                    <img className='invert' src='images/4.png'/>
+                    <img className='invert' src='images/5.png'/>
+                    <img className='invert' src='images/6.png'/>
+                    <img className='invert' src='images/7.png'/>
             </div>
         </div>
     </>

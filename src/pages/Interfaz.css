@@ -1,5 +1,6 @@
 body {
     align-items: center;
+    background-color: black;
     text-align: center;
     margin: 4px;
     padding: 0;
@@ -7,64 +8,42 @@ body {
     height: auto;
 }
 
-.title{
-    background-color: #304ffe;
-    color: #ffff00;
-    font-family: Arial;
-}
-
-.color-text{
-    text-decoration: none;
-    color: #ffff00;
-    font-size:large;
-    background-color: #304ffe;
-    background-size: cover;
-}
-
-
-img {
-    width: 200px;
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-}
-
-.container{
-    position: relative;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
 .container .btn {
     position: absolute;
     top: 35%;
-    left: 50%;
+    left: 80%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    font-family: Arial;
-    font-size: 16px;
+    background-color: transparent;
+    color: #ffffff;
+    font-family: 'Cuprum', sans-serif;
+    font-weight: 900;
+    text-shadow: 2px 2px 0 #0505f3, 5px 5px 0 #eefa0e, 8px 8px 0 #fc06e7, 11px 11px 0 #93939c; 
     padding: 12px 24px;
     border: none;
     cursor: pointer;
-    border-radius: 5px;
 }
 
 .container .btn2 {
     position: absolute;
-    top: 60%;
-    left: 50%;
+    top: 50%;
+    left: 80%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    font-family: Arial;
-    font-size: 16px;
+    background-color: transparent;
+    color: #ffffff;
+    font-family: 'Cuprum', sans-serif;
+    font-weight: 900;
+    text-shadow: 2px 2px 0 #0505f3, 5px 5px 0 #eefa0e, 8px 8px 0 #fc06e7, 11px 11px 0 #93939c; 
     padding: 12px 24px;
     border: none;
     cursor: pointer;
-    border-radius: 5px;
 }
 
-.color-text:hover {
-    background-color: #ff4081;
+.container .btn:hover{
+    text-shadow: 2px 2px 0 #fc06e7, 5px 5px 0 #eefa0e, 8px 8px 0 #0505f3, 11px 11px 0 #93939c; 
 }
 
+.container .btn2:hover{
+    text-shadow: 2px 2px 0 #fc06e7, 5px 5px 0 #eefa0e, 8px 8px 0 #0505f3, 11px 11px 0 #93939c; 
+}
