@@ -15,7 +15,6 @@ const Interfaz = () => {
                         <button className="btn2">English Menu</button>
                     </Link>   
                 <img src='images/ch3.jpeg' className='xolo' />
-                    <a href={'https://www.instagram.com/chinicuil.holbox/'} className='btn3'>@chinicuil.holbox</a>
             </div>
         </>
     )
